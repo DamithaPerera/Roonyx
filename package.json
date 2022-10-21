@@ -1,0 +1,24 @@
+{
+  "name": "roonyx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-http-request-handling.js",
+  "scripts": {
+    "problem-1": "tsc 1-http-request-handling.ts && node 1-http-request-handling.js",
+    "problem-2": "tsc 2-counter-function.test.ts && node 2-counter-function.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamithaPerera/Roonyx.git"
+  },
+  "author": "damitha perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamithaPerera/Roonyx/issues"
+  },
+  "homepage": "https://github.com/DamithaPerera/Roonyx#readme",
+  "dependencies": {
+    "@types/node": "^18.11.3",
+    "typescript": "^4.8.4"
+  }
+}
